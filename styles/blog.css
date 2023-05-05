@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.book-title{
+    position: relative;
+    left: 27%;
+    color: goldenrod;
+    font-size: 24px;
+    bottom: 225px;
+    font-family: 'Dancing Script', cursive;
+}
